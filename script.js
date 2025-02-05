@@ -1,4 +1,4 @@
-const ssUrl = "YOUR_WEB_APP_URL"; // Replace with your Apps Script URL
+const ssUrl = "https://script.google.com/macros/s/AKfycbyb4r9S_tNeXIc54rxeXieHvZyEj6GmEfVc6vEalstKW4k9zGxSkwQ1LOTrGtF-YySHwQ/exec"; // Replace with your Apps Script URL
 
 document.addEventListener('DOMContentLoaded', () => {
   loadSalesData();
